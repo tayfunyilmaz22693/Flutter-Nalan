@@ -39,7 +39,7 @@ class App extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Benim Projem',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: const Toplama(),
+      home: const Nalan(),
     );
   }
 }
